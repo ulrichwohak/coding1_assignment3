@@ -3,7 +3,7 @@ Submit your answers to the questions below in a Jupyter Notebook where the outpu
 
 
 ## Task 1: Finding good hotel deals in Europe
-Use the data sets `hotels-europe_price.csv` and `hotels-europe_features.csv` and complete the following tasks:
+For this task you will use the data sets `hotels-europe_price.csv` and `hotels-europe_features.csv`. You can download the data via this [link](https://osf.io/r6uqb/) from the `clean` folder. After you downloaded the data, complete the following tasks:
 
 1. Combine the two data frames;
 2. Filter the data to only include observations with the following characteristics: we are interested in observations during the week days of August in `hotels` in Vienna and London in 2017. Make sure to check that no outliers (e.g. with respect to price) are present. In other words, clean your data accordingly;
