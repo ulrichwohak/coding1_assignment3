@@ -7,5 +7,5 @@ Use the data sets `hotels-europe_price.csv` and `hotels-europe_features.csv` and
 
 1. Combine the two data frames;
 2. Filter the data to only include observations with the following characteristics:
-2.1 abc
+a. abc
 
