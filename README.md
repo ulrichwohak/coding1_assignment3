@@ -2,7 +2,7 @@
 Submit your answers to the questions below in a Jupyter Notebook where the output is displayed. Submissions are only accepted via Github Classroom. If you would like to know how to submit assignments via Github Classroom, please see: https://www.youtube.com/watch?v=ObaFRGp_Eko
 
 
-## Task 1: Finding good hotel deals in Europe
+## Task 1: Hotel prices in Vienna and London
 For this task you will use the data sets `hotels-europe_price.csv` and `hotels-europe_features.csv`. You can download the data via this [link](https://osf.io/r6uqb/) from the `clean` folder. After you downloaded the data, complete the following tasks:
 
 1. Combine the two data frames;
